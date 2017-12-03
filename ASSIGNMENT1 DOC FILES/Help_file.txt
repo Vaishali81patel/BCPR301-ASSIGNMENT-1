@@ -1,0 +1,50 @@
+ProjectOne
+
+Help file for command-line / line-orientated options:
+
+read:
+        
+      
+Reads data from a file
+        Syntax: read [the_name]
+        :param file_name: valid extensions .db(SQLite) .csv .pickle
+        
+
+"""
+
+show:
+        """
+        
+Shows either the records of the file previously inputted using <read>
+        or 
+
+if given the records in the <file_name> parameter
+        
+	Syntax: show or show <file_name>
+        """
+
+graph:
+        """
+        
+
+Graphs to shpow the Male Vs Female ratio of the records in the file
+        
+	Syntax: graph <file_name> [graph_type]
+        :file_name:
+        :argument graph_type: <pie> default: bar
+
+
+Saves the file to new file name
+        
+	Syntax: save <file_name>
+        :file_name: valid extensions .db .csv .pickle
+        """
+
+quit:
+        """
+        
+
+Quit from the program
+        
+	Syntax: quit or q
+        """

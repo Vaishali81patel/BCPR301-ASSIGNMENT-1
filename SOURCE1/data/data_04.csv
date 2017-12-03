@@ -1,0 +1,7 @@
+emp_id,gender,age,sales,bmi,salary,dob
+T123,M,20,654,Normal,56,16/10/1996
+G634,F,54,654,Overweight,56,16/10/1962
+Z456,F,20,654,Normal,56,16/10/1996
+T123,M,60,654,Underweight,36,16/10/1986
+H125,M,20,654,Normal,56,16/10/1996
+Z457,F,20,654,Normal,66,16/10/1997
